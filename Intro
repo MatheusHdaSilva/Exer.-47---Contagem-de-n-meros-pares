@@ -1,0 +1,6 @@
+Dentro da estrutura de repetição é indicado o '2' não '0' po conta 
+que queremos que aparecam somente números pares no como resposta do algorítmo.
+'51' é para que o ultimo a aparecer seja '50' já que o exercício pede números 
+pares de 1 a 50,pós isso temos que acrescentar o 2 para que o ele pule de dois em dois
+e mantenha somente os números pares aparecendo. é necessário usar o comando (end= ' ')
+para que os números fiquem na msm linha.
